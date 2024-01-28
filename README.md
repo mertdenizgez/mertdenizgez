@@ -54,7 +54,7 @@ I'm Mert Denizgez from Istanbul/Turkey
   <a href="https://twitter.com/mertdenizgez" target="_blank">
     <img src="./x.jpg" height="25" alt="twitter logo"  />
   </a>
-  <a href="mertdenizgez@gmail.com" target="_blank">
+  <a href="mailto:mertdenizgez@gmail.com" target="_blank">
     <img src="./gmail.png" height="25" alt="gmail logo"  />
   </a>
    <a href="https://github.com/mertdenizgez" target="_blank">
