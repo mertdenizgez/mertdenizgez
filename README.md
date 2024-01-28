@@ -8,11 +8,11 @@
 
 <p align="left">I'm Mert Denizgez from Istanbul/Turkey<br><br>- 🔭 I’m working as Software Engineer @CueHealth<br>- 📚 I'm currently learning Spring Webflux, NodeJS with NestJS</p>
 
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -38,17 +38,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mertdenizgez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mertdenizgez/" target="_blank">
@@ -62,4 +62,4 @@
   </a>
 </div>
 
-###
+
